@@ -1,0 +1,14 @@
+{
+  "env": {
+    node: true,
+    mocha: true
+  },
+  "rules": {
+    "func-names": ["off"],
+    "prefer-arrow-callback": ["off"],
+    "no-unused-expressions": ["off"],
+    "space-before-function-paren": ["off"],
+    "semi": [2, "never"],
+    "indent": ["error", 2],
+  }
+}
